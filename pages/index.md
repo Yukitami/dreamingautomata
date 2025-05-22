@@ -1,6 +1,6 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
+title: Kenrighan
+description: Kenrighan's Website
 image: https://antfu.me/og.png
 art: random
 ---
@@ -16,7 +16,6 @@ Dreaming up cool ideas and making them come true is where my passion lies. I am 
 
 Outside of programming, I enjoy doing photography and traveling. I post [photos on this page](/photos). I also love anime, movies and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/use).
 
-I recently <a href="/posts/hello-tokyo">moved to <ruby lang="ja">東京<rp>(</rp><rt>Tokyo</rt><rp>)</rp></ruby></a>, if you are around, please reach out and let's have some coffee or work together.
 
 <div flex-auto />
 
