@@ -1,6 +1,6 @@
 ---
-title: Photos - Anthony Fu
-description: Photos by Anthony Fu
+title: Photos - Kenrighan
+description: Kenrighan's Photos
 display: ''
 ---
 
