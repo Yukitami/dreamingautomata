@@ -49,6 +49,7 @@ export const book: MediaRecord[] = [
 ]
 
 export const movie: MediaRecord[] = [
+  {
     name: 'Spider-Man: Across the Spider-Verse',
     creator: 'Joaquim Santos, Kemp Powers, Justin Thompson',
   },
