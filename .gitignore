@@ -12,5 +12,6 @@ temp
 sponsors.*
 drafts
 *.log
+*.bak
 src/data/sponsors-circles.json
 public/assets/fonts

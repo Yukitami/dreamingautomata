@@ -1,5 +1,5 @@
 ---
-title: Kenrighan
+title: Hi :)
 description: Kenrighan's Website
 image: https://antfu.me/og.png
 art: random
