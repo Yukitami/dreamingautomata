@@ -37,4 +37,4 @@ Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
 
 ---
 
-<SponsorButtons />
+<!-- <SponsorButtons /> -->
